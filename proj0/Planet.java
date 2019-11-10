@@ -1,4 +1,4 @@
-public class NBody {
+public class Planet {
     public static double readRadius(String fileName){
         In in = new In (fileName);
         int num = in.readInt();
